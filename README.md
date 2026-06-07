@@ -1,12 +1,8 @@
 Project Info: 
 
-Students: 
+Students: [Hafsa Shahid] & [Areeba Fatima]
 
-[Hafsa Shahid] & [Areeba Fatima]
-
-Roll No: 
-
-[25-cs-181] & [25-cs-221]
+Roll No: [25-cs-181] & [25-cs-221]
 
 Course: CS-OOP (Object-Oriented Programming)
 
