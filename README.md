@@ -51,15 +51,11 @@ The following OOP concepts will be implemented in this project:
 20. Friend function: Controlled access to private data.
 21. Static Members: Shared information among objects.
 22. Dynamic Memory Allocation: Runtime memory management using new/delete.
-23	Exception Handling:
+23	Exception Handling: Handles invalid operations and errors.
 
-Handles invalid operations and errors.
-24	File Handling: 
+24	File Handling: Persistent storage of records.
 
-Persistent storage of records.
-25	STL Containers: 
-
-Vectors, maps, and lists used for data management.
+25	STL Containers: Vectors, maps, and lists used for data management.
 
 
 
